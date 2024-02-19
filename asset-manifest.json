@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wk4-asm5-react/static/css/main.9650c50c.css",
+    "main.js": "/wk4-asm5-react/static/js/main.2006a04a.js",
+    "static/js/592.fa4f2e8a.chunk.js": "/wk4-asm5-react/static/js/592.fa4f2e8a.chunk.js",
+    "index.html": "/wk4-asm5-react/index.html",
+    "main.9650c50c.css.map": "/wk4-asm5-react/static/css/main.9650c50c.css.map",
+    "main.2006a04a.js.map": "/wk4-asm5-react/static/js/main.2006a04a.js.map",
+    "592.fa4f2e8a.chunk.js.map": "/wk4-asm5-react/static/js/592.fa4f2e8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9650c50c.css",
+    "static/js/main.2006a04a.js"
+  ]
+}
